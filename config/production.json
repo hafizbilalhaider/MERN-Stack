@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://bilal:bilal123@devcluster.vtac9.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "Iv1.2fbf7a44a13f7bb9",
+    "githubSecret": "d1d4f0605b189e8bd866d1cc13232d54e0009f5c"
+}
